@@ -1,7 +1,7 @@
 {
   "requires": true,
   "lockfileVersion": 1,
-  "script":{
+  "scripts":{
     "start": "node app.js"
   },
   "dependencies": {
