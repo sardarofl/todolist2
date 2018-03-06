@@ -2,10 +2,10 @@
   "name": "todolist",
   "version": "1.0.0",
   "description": "",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "main": "app.js",
   "dependencies": {
     "express": "^4.16.2",
     "mongoose": "^5.0.9"
