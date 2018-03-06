@@ -4,17 +4,15 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "dependencies": {
+    "ejs": "^2.5.7",
     "express": "^4.16.2",
     "mongoose": "^5.0.9"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sardarofl/todolist2.git"
