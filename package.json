@@ -2,7 +2,7 @@
   "requires": true,
   "lockfileVersion": 1,
   "script":{
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "accepts": {
